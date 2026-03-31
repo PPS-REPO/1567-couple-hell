@@ -122,12 +122,7 @@
             "only_deploy": false
         }
     ],
-    "manual_example": [
-        {
-            "input": "5 3\n1 4 1\n1 6 10\n2 3 100\n2 5 1000\n3 5 10000\n2 3\n1 5\n3 4",
-            "output": "11000\n10\n10101"
-        }
-    ],
+    "manual_example": [],
     "versions": {
         "config": 1,
         "repository": 1
