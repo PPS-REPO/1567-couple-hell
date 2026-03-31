@@ -20,28 +20,7 @@
             "label": "한국어"
         }
     ],
-    "solutions": [
-        {
-            "name": "solution.cc",
-            "language": "cpp11",
-            "type": "MCS"
-        },
-        {
-            "name": "solution_wa.cc",
-            "language": "cpp11",
-            "type": "WA"
-        },
-        {
-            "name": "solution.py",
-            "language": "py3",
-            "type": "AC"
-        },
-        {
-            "name": "solution_heuristic.cc",
-            "language": "cpp11",
-            "type": "AC/WA"
-        }
-    ],
+    "solutions": [],
     "generators": [
         {
             "name": "generator_manual.py",
