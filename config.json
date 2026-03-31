@@ -42,6 +42,11 @@
             "name": "generator.cpp",
             "language": "cpp17",
             "alias": "main"
+        },
+        {
+            "name": "generator-raw.cpp",
+            "language": "cpp17",
+            "alias": "case"
         }
     ],
     "subtask_group": [],
