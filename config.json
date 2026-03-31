@@ -23,6 +23,11 @@
     "solutions": [],
     "generators": [
         {
+            "name": "generator.cpp",
+            "language": "cpp17",
+            "alias": "main"
+        },
+        {
             "name": "generator_manual.py",
             "language": "py3",
             "alias": "manual"
