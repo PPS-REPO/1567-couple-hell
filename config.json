@@ -25,6 +25,16 @@
             "name": "solution.cpp",
             "language": "cpp17",
             "type": "MCS"
+        },
+        {
+            "name": "solution-lxry.cpp",
+            "language": "cpp17",
+            "type": "WA"
+        },
+        {
+            "name": "solution-naive.cpp",
+            "language": "cpp17",
+            "type": "TLE"
         }
     ],
     "generators": [
