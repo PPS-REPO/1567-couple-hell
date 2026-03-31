@@ -20,7 +20,13 @@
             "label": "한국어"
         }
     ],
-    "solutions": [],
+    "solutions": [
+        {
+            "name": "solution.cpp",
+            "language": "cpp17",
+            "type": "MCS"
+        }
+    ],
     "generators": [
         {
             "name": "generator.cpp",
