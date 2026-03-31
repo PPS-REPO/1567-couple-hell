@@ -47,7 +47,21 @@
     "subtask_group": [],
     "genscript": [
         {
+            "script": "main -max_n=200000 -max_q=200000 -weighted=yes",
+            "subtask_group": "",
+            "description": "",
+            "is_example": false,
+            "only_deploy": false
+        },
+        {
             "script": "main -max_n=200000 -max_q=200000",
+            "subtask_group": "",
+            "description": "",
+            "is_example": false,
+            "only_deploy": false
+        },
+        {
+            "script": "main -max_n=10000 -max_q=10000 -weighted=yes",
             "subtask_group": "",
             "description": "",
             "is_example": false,
@@ -68,7 +82,28 @@
             "only_deploy": false
         },
         {
+            "script": "main -max_n=200000 -max_q=1",
+            "subtask_group": "",
+            "description": "",
+            "is_example": false,
+            "only_deploy": false
+        },
+        {
+            "script": "main -max_n=1 -max_q=200000",
+            "subtask_group": "",
+            "description": "",
+            "is_example": false,
+            "only_deploy": false
+        },
+        {
             "script": "main -max_n=1000 -max_q=1000",
+            "subtask_group": "",
+            "description": "",
+            "is_example": false,
+            "only_deploy": false
+        },
+        {
+            "script": "main -max_n=500 -max_q=500",
             "subtask_group": "",
             "description": "",
             "is_example": false,
