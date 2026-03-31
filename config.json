@@ -59,6 +59,13 @@
             "only_deploy": false
         },
         {
+            "script": "case -num=2",
+            "subtask_group": "",
+            "description": "",
+            "is_example": false,
+            "only_deploy": false
+        },
+        {
             "script": "main -max_n=200000 -max_q=200000 -weighted=yes",
             "subtask_group": "",
             "description": "",
