@@ -52,6 +52,13 @@
     "subtask_group": [],
     "genscript": [
         {
+            "script": "case -num=1",
+            "subtask_group": "",
+            "description": "",
+            "is_example": true,
+            "only_deploy": false
+        },
+        {
             "script": "main -max_n=200000 -max_q=200000 -weighted=yes",
             "subtask_group": "",
             "description": "",
