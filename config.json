@@ -54,7 +54,7 @@
             "only_deploy": false
         },
         {
-            "script": "main -max_n=200000 -max_q=200000",
+            "script": "main -max_n=200000 -max_q=200000 -weighted=no",
             "subtask_group": "",
             "description": "",
             "is_example": false,
@@ -68,49 +68,49 @@
             "only_deploy": false
         },
         {
-            "script": "main -max_n=10000 -max_q=10000",
+            "script": "main -max_n=10000 -max_q=10000 -weighted=no",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "main -max_n=5000 -max_q=5000",
+            "script": "main -max_n=5000 -max_q=5000 -weighted=no",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "main -max_n=200000 -max_q=1",
+            "script": "main -max_n=200000 -max_q=1 -weighted=no",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "main -max_n=1 -max_q=200000",
+            "script": "main -max_n=1 -max_q=200000 -weighted=no",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "main -max_n=1000 -max_q=1000",
+            "script": "main -max_n=1000 -max_q=1000 -weighted=no",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "main -max_n=500 -max_q=500",
+            "script": "main -max_n=500 -max_q=500 -weighted=no",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "main -max_n=1 -max_q=1",
+            "script": "main -max_n=1 -max_q=1 -weighted=no",
             "subtask_group": "",
             "description": "",
             "is_example": false,
